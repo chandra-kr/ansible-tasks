@@ -23,7 +23,7 @@ If `sample1.yml` is the input file, it returns files in the following format:
   ```
 
 ### Example-2
-If `sample1.yml` is the input file, it returns files in the following format:
+If `sample2.yml` is the input file, it returns files in the following format:
 - WilliamShakespeare.yml with the value
   ```
   A rose by any other name would smell as sweet.
